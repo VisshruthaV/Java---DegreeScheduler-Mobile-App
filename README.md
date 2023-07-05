@@ -4,6 +4,7 @@ This android mobile application, written in Java and HTML, allows Wayne State Un
 - Search for classes
 - Download selected classes
 - Send an email to counselors for help
+
 Incorporating Google's Firestore Firebase Database, this mobile application also has user authentication / log-in functionalities. Showcasing both front-end and back-end software development using Java, this mobile application provides for a seamless user experience in being able to create and plan out classes and schedules for Wayne State University students.
 
 ## Requirements
