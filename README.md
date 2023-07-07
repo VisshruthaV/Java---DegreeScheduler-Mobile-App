@@ -1,5 +1,5 @@
 # DegreeScheduler Mobile Application
-This android mobile application, written in Java and HTML, allows Wayne State University students to:
+This android mobile application, written in Java, SQL, and HTML, allows Wayne State University students to:
 - Create a schedule
 - Search for classes
 - Download selected classes
